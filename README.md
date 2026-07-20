@@ -33,13 +33,11 @@ CodeAlpha_Tasks/
 │
 ├── Task-1-Industrial-IoT/
 │   ├── README.md
-│   ├── Research_Report.pdf
-│   └── Images/
+│   └── Internet of Things (IoT) in Industrial Automation.pdf
 │
 └── Task-4-Future-of-IoT-in-Smart-Cities/
     ├── README.md
-    ├── Research_Report.pdf
-    └── Images/
+    └── Future of IoT in Smart Cities.pdf
 ```
 
 ---
